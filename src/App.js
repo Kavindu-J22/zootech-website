@@ -13,64 +13,64 @@ import img5 from './assets/image5.jpg';
 import img6 from './assets/img6.jpg';
 import img7 from './assets/img7.jpg';
 
+import mem1 from './assets/mem1.jpeg';
+import mem2 from './assets/mem2.jpg';
+import mem3 from './assets/mem3.jpg';
+import mem4 from './assets/mem4.jpg';
+import sup from './assets/sup.jpg';
+
 const teamMembers = [
   {
     name: 'Ayagamage M.T',
     id: 'IT21887376',
     department: 'Dept. Faculty of Computing',
-    photo: img7,
+    photo: mem1,
   },
   {
     name: 'Nazeem A.J.M',
     id: 'IT20469900',
     department: 'Dept. Faculty of Computing',
-    photo: img7,
+    photo: mem2,
   },
   {
     name: 'A.M Karunanayake',
     id: 'It19235448 ',
     department: 'Dept. Faculty of Computing',
-    photo: img7,
+    photo: mem3,
   },
   {
     name: 'Sendanayaka D.C.I',
     id: 'IT21112164',
     department: 'Dept. Faculty of Computing',
-    photo: img7,
+    photo: mem4,
   },
   {
     name: 'Ms.Suranjini Silva',
     id: 'Supervisor',
     department: 'Dept. Faculty of Computing',
-    photo: img7,
-  },
-  {
-    name: 'Diana Prince',
-    id: 'Co-Supervisor',
-    department: 'Dept. Faculty of Computing',
-    photo: img7,
+    photo: sup,
   },
 ];
 
 const contacts = [
   {
     name: 'Ayagamage M.T',
-    phone: '+123456789',
+    phone: '+94 71 170 2607',
     email: 'it21887376@my.sliit.lk',
   },
   {
     name: 'Nazeem A.J.M',
-    phone: '+987654321',
+    phone: '+94 71 138 7012',
     email: 'it20469900@my.sliit.lk',
   },
   {
     name: 'A.M Karunanayake',
-    phone: '+555555555',
+    phone: '+94 78 757 6469',
     email: 'it19235448@my.sliit.lk',
   },
   {
     name: 'Sendanayaka D.C.I',
-    phone: '+444444444',
+    phone: '+94 78 533 4898',
     email: 'it21112164@my.sliit.lk',
   },
 ];
