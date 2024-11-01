@@ -33,7 +33,7 @@ body {
   right: 0;
   bottom: 0;
   background: url('./assets/bgimg.png') no-repeat center center/cover;
-  opacity: 0.3; /* Set the opacity for the background image */
+  opacity: 0.4; /* Set the opacity for the background image */
   z-index: 1; /* Set z-index lower than content to place it behind */
 }
 
